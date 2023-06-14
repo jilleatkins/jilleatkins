@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋 I'm Jill </h1>
 <h3 align="center">A junior software developer dedicated to creating visually appealing and user-friendly digital experiences.</h3>
 
-<h3 align="center">Feel free to check out my <a href="jilleatkins.vercel.app">portfolio</a></h3>
+<h3 align="center">Feel free to check out my <a href="[jilleatkins.vercel.app](https://jilleatkins.vercel.app/)">portfolio</a></h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
