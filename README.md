@@ -2,7 +2,7 @@
 <h3 align="center">A junior software developer dedicated to creating visually appealing and user-friendly digital experiences.</h3>
 
 <h3 align="center">Feel free to check out my portfolio:</h3>
-<h3 align="center">https://jilleatkins.vercel.app/</h3>
+<h3 align="center">https://jilleatkins.com/</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
